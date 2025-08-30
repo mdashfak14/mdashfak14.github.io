@@ -1,0 +1,30 @@
+# The following is the order of the links in the header of the website.
+#
+# Changing the order here will adjust the order and you can also add additional
+# links. Removing a link prevents it from showing in the header, but does not
+# prevent it from being included in the site.
+
+main:
+  - title: "📢 News"
+    url: /news/
+
+  - title: "🎓 Academics"
+    url: /academics/    
+
+  - title: "📝 Publications"
+    url: /publications/
+
+  - title: "💼 Experiences"
+    url: /experience/
+
+  - title: "🐾 ECA & Certs"
+    url: /eca-certifications/    
+        
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+    
+  - title: "🔖 CV"
+    url: /files/GM_Iqbal_Academic_CV.pdf
+    
+  # - title: "Guide"
+  #   url: /markdown/
