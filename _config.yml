@@ -11,13 +11,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "GM Iqbal 🏡"
+title                    : "Md Ashfak Hossain 🏡"
 title_separator          : "-"
-name                     : &name "G M Iqbal Mahmud"
-description              : &description "Industrial Engineer"
-url                      : https://gmiqbal.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : &name "Md Ashfka Hossain"
+description              : &description "Mechanical Engineer"
+url                      : https://mdashfak14.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gmiqbal/gmiqbal.github.io"
+repository               : "mdashfak14/mdashfak14.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,30 +25,30 @@ repository               : "gmiqbal/gmiqbal.github.io"
 author:
   # Biographic information
   avatar           : "G M Iqbal Mahmud.png"
-  name             : "G M Iqbal Mahmud"
+  name             : "Md Ashfak Hossain"
   pronouns         : # example: "she/her"
-  bio              : "Industrial Engineer✨ <br>🎯Upwards & onwards! "
+  bio              : "Mechanical Engineer✨ <br>🎯Upwards & onwards! "
   location         : "Dhaka, Bangladesh 🇧🇩"
   employer         : #"Khulna University of Engineering & Technology (KUET)"
   uri              : # URL
-  email            : "gmiqbalm@gmail.com" 
+  email            : "ashfakhossain152001@gmail.com" 
 
   # Academic websites
-  linkedin         : "gmiqbal"
+  linkedin         : "https://www.linkedin.com/in/md-ashfak-hossain-4b07411a3"
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=3PNQt0EAAAAJ&hl=en"
+  googlescholar    : "https://share.google/MRHRBbrjX5iUvgLdT"
   impactstory      : # URL
   # orcid            : "https://orcid.org/my-orcid?orcid=0009-0001-2309-1246"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Gm-Mahmud"
+  researchgate     : "https://www.researchgate.net/profile/Md-Ashfak-Hossain-2?ev=hdr_xprf"
   scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "gmiqbal"
+  github           : "mdashfak14"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -68,7 +68,7 @@ author:
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  whatsapp         : https://wa.me/8801753377808
+  whatsapp         : https://wa.me/8801627961535
 
   telegram         : #https://t.me/gm1_9
   tumblr           : # Username
@@ -77,15 +77,15 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username dfsdf
-  youtube          : GMIqbalMahmud
+  youtube          : #Username
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
+  #manuscripts:
+    #title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
 
@@ -116,7 +116,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "mdashfak14"
   generatedFields:
     date:
       type               : "date"
